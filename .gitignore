@@ -2,7 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-Homework4.iml
+*.iml
 .idea
 
 ### Eclipse ###
